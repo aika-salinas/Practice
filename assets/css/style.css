@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: space-between;
+    padding: .4rem .6rem;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.Nemo {
+    width: 5rem;
+}
